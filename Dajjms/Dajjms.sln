@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dajjms", "Assembly-CSharp-firstpass.csproj", "{0DED453B-4D7C-5749-2E73-0983F955F1AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dajjms", "Assembly-CSharp-Editor-firstpass.csproj", "{DF68655C-FE5D-2C0D-DFA7-5E0585327E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DED453B-4D7C-5749-2E73-0983F955F1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DED453B-4D7C-5749-2E73-0983F955F1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DED453B-4D7C-5749-2E73-0983F955F1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DED453B-4D7C-5749-2E73-0983F955F1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF68655C-FE5D-2C0D-DFA7-5E0585327E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF68655C-FE5D-2C0D-DFA7-5E0585327E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF68655C-FE5D-2C0D-DFA7-5E0585327E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF68655C-FE5D-2C0D-DFA7-5E0585327E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
